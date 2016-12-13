@@ -1,0 +1,859 @@
+{
+  "nextEntryId": 191,
+  "nodes": [
+    {
+      "id": "4",
+      "name": "Font",
+      "type": "font"
+    },
+    {
+      "id": "161",
+      "name": "Small Font",
+      "type": "font"
+    },
+    {
+      "id": "2",
+      "name": "InGame",
+      "type": null,
+      "children": [
+        {
+          "id": "3",
+          "name": "Scene",
+          "type": "scene"
+        },
+        {
+          "id": "0",
+          "name": "Map",
+          "type": "tileMap"
+        },
+        {
+          "id": "1",
+          "name": "Tileset",
+          "type": "tileSet"
+        },
+        {
+          "id": "18",
+          "name": "Background",
+          "type": "sprite"
+        },
+        {
+          "id": "162",
+          "name": "Logo",
+          "type": "sprite"
+        },
+        {
+          "id": "15",
+          "name": "White Sprite",
+          "type": "sprite"
+        },
+        {
+          "id": "149",
+          "name": "Door Closed",
+          "type": "sprite"
+        },
+        {
+          "id": "155",
+          "name": "Door Opened",
+          "type": "sprite"
+        },
+        {
+          "id": "65",
+          "name": "Room Top",
+          "type": "sprite"
+        },
+        {
+          "id": "8",
+          "name": "Game",
+          "type": "script"
+        },
+        {
+          "id": "12",
+          "name": "GameBehavior",
+          "type": "script"
+        },
+        {
+          "id": "49",
+          "name": "HUD",
+          "type": null,
+          "children": [
+            {
+              "id": "153",
+              "name": "Slot",
+              "type": "sprite"
+            },
+            {
+              "id": "135",
+              "name": "Slot Selected",
+              "type": "sprite"
+            },
+            {
+              "id": "156",
+              "name": "Arrow",
+              "type": "sprite"
+            },
+            {
+              "id": "51",
+              "name": "Money",
+              "type": "sprite"
+            },
+            {
+              "id": "176",
+              "name": "Satisfaction",
+              "type": "sprite"
+            },
+            {
+              "id": "50",
+              "name": "Time",
+              "type": "sprite"
+            },
+            {
+              "id": "124",
+              "name": "Furnitures",
+              "type": null,
+              "children": [
+                {
+                  "id": "137",
+                  "name": "Sell",
+                  "type": "sprite"
+                },
+                {
+                  "id": "130",
+                  "name": "Oven",
+                  "type": "sprite"
+                },
+                {
+                  "id": "131",
+                  "name": "Chimney",
+                  "type": "sprite"
+                },
+                {
+                  "id": "128",
+                  "name": "Simple Table",
+                  "type": "sprite"
+                },
+                {
+                  "id": "182",
+                  "name": "Simple Table Cloth",
+                  "type": "sprite"
+                },
+                {
+                  "id": "129",
+                  "name": "Double Table",
+                  "type": "sprite"
+                },
+                {
+                  "id": "183",
+                  "name": "Double Table Cloth",
+                  "type": "sprite"
+                },
+                {
+                  "id": "134",
+                  "name": "Carpet",
+                  "type": "sprite"
+                },
+                {
+                  "id": "132",
+                  "name": "Plant",
+                  "type": "sprite"
+                },
+                {
+                  "id": "127",
+                  "name": "Candle",
+                  "type": "sprite"
+                },
+                {
+                  "id": "152",
+                  "name": "Trapdoor",
+                  "type": "sprite"
+                }
+              ]
+            },
+            {
+              "id": "187",
+              "name": "Float Away Behavior",
+              "type": "script"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "name": "Food",
+          "type": null,
+          "children": [
+            {
+              "id": "85",
+              "name": "Data",
+              "type": "script"
+            },
+            {
+              "id": "154",
+              "name": "Behavior",
+              "type": "script"
+            },
+            {
+              "id": "95",
+              "name": "Empty Dish",
+              "type": "sprite"
+            },
+            {
+              "id": "72",
+              "name": "Ingredients",
+              "type": null,
+              "children": [
+                {
+                  "id": "71",
+                  "name": "Data",
+                  "type": "script"
+                },
+                {
+                  "id": "120",
+                  "name": "Apple",
+                  "type": "sprite"
+                },
+                {
+                  "id": "107",
+                  "name": "Blood Horn",
+                  "type": "sprite"
+                },
+                {
+                  "id": "81",
+                  "name": "Carrot",
+                  "type": "sprite"
+                },
+                {
+                  "id": "74",
+                  "name": "Cheese",
+                  "type": "sprite"
+                },
+                {
+                  "id": "177",
+                  "name": "Chicken Leg",
+                  "type": "sprite"
+                },
+                {
+                  "id": "101",
+                  "name": "Corn",
+                  "type": "sprite"
+                },
+                {
+                  "id": "96",
+                  "name": "Egg",
+                  "type": "sprite"
+                },
+                {
+                  "id": "76",
+                  "name": "Grape",
+                  "type": "sprite"
+                },
+                {
+                  "id": "174",
+                  "name": "Fish Piece",
+                  "type": "sprite"
+                },
+                {
+                  "id": "94",
+                  "name": "Ham",
+                  "type": "sprite"
+                },
+                {
+                  "id": "93",
+                  "name": "Hop",
+                  "type": "sprite"
+                },
+                {
+                  "id": "126",
+                  "name": "Human Eye",
+                  "type": "sprite"
+                },
+                {
+                  "id": "110",
+                  "name": "Human Piece",
+                  "type": "sprite"
+                },
+                {
+                  "id": "91",
+                  "name": "Potato",
+                  "type": "sprite"
+                },
+                {
+                  "id": "185",
+                  "name": "Salad",
+                  "type": "sprite"
+                },
+                {
+                  "id": "121",
+                  "name": "Sugar",
+                  "type": "sprite"
+                },
+                {
+                  "id": "75",
+                  "name": "Tomato",
+                  "type": "sprite"
+                },
+                {
+                  "id": "87",
+                  "name": "Water",
+                  "type": "sprite"
+                },
+                {
+                  "id": "86",
+                  "name": "Wheat",
+                  "type": "sprite"
+                }
+              ]
+            },
+            {
+              "id": "102",
+              "name": "Meals",
+              "type": null,
+              "children": [
+                {
+                  "id": "122",
+                  "name": "Apple Pie",
+                  "type": "sprite"
+                },
+                {
+                  "id": "44",
+                  "name": "Bread",
+                  "type": "sprite"
+                },
+                {
+                  "id": "99",
+                  "name": "Carrot Salad",
+                  "type": "sprite"
+                },
+                {
+                  "id": "97",
+                  "name": "Carrot Soup",
+                  "type": "sprite"
+                },
+                {
+                  "id": "114",
+                  "name": "Candies",
+                  "type": "sprite"
+                },
+                {
+                  "id": "119",
+                  "name": "Eye Soup",
+                  "type": "sprite"
+                },
+                {
+                  "id": "175",
+                  "name": "Fish Grilled",
+                  "type": "sprite"
+                },
+                {
+                  "id": "108",
+                  "name": "Fried Egg",
+                  "type": "sprite"
+                },
+                {
+                  "id": "123",
+                  "name": "Human Meat Pie",
+                  "type": "sprite"
+                },
+                {
+                  "id": "92",
+                  "name": "Mixed Salad",
+                  "type": "sprite"
+                },
+                {
+                  "id": "179",
+                  "name": "Roasted Chicken",
+                  "type": "sprite"
+                },
+                {
+                  "id": "53",
+                  "name": "Sandwich",
+                  "type": "sprite"
+                },
+                {
+                  "id": "98",
+                  "name": "Tartiflette",
+                  "type": "sprite"
+                },
+                {
+                  "id": "67",
+                  "name": "Tomato Salad",
+                  "type": "sprite"
+                }
+              ]
+            },
+            {
+              "id": "103",
+              "name": "Drinks",
+              "type": null,
+              "children": [
+                {
+                  "id": "43",
+                  "name": "Beer",
+                  "type": "sprite"
+                },
+                {
+                  "id": "90",
+                  "name": "Tomato Juice",
+                  "type": "sprite"
+                },
+                {
+                  "id": "88",
+                  "name": "Wine",
+                  "type": "sprite"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "name": "Furnitures",
+          "type": null,
+          "children": [
+            {
+              "id": "14",
+              "name": "Data",
+              "type": "script"
+            },
+            {
+              "id": "16",
+              "name": "Behavior",
+              "type": "script"
+            },
+            {
+              "id": "46",
+              "name": "Oven",
+              "type": "sprite"
+            },
+            {
+              "id": "45",
+              "name": "Chimney",
+              "type": "sprite"
+            },
+            {
+              "id": "17",
+              "name": "Simple Table",
+              "type": "sprite"
+            },
+            {
+              "id": "172",
+              "name": "Simple Table Cloth",
+              "type": "sprite"
+            },
+            {
+              "id": "10",
+              "name": "Double Table",
+              "type": "sprite"
+            },
+            {
+              "id": "173",
+              "name": "Double Table Cloth",
+              "type": "sprite"
+            },
+            {
+              "id": "27",
+              "name": "Carpet",
+              "type": "sprite"
+            },
+            {
+              "id": "28",
+              "name": "Plant",
+              "type": "sprite"
+            },
+            {
+              "id": "133",
+              "name": "Candle",
+              "type": "sprite"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "name": "Customers",
+          "type": null,
+          "children": [
+            {
+              "id": "33",
+              "name": "Data",
+              "type": "script"
+            },
+            {
+              "id": "7",
+              "name": "Spawner",
+              "type": "script"
+            },
+            {
+              "id": "70",
+              "name": "Prefab",
+              "type": "scene"
+            },
+            {
+              "id": "5",
+              "name": "Behavior",
+              "type": "script"
+            },
+            {
+              "id": "34",
+              "name": "Shadow",
+              "type": "sprite"
+            },
+            {
+              "id": "163",
+              "name": "Eating",
+              "type": "sprite"
+            },
+            {
+              "id": "52",
+              "name": "Bubbles",
+              "type": null,
+              "children": [
+                {
+                  "id": "26",
+                  "name": "Background",
+                  "type": "sprite"
+                },
+                {
+                  "id": "54",
+                  "name": "Angry",
+                  "type": "sprite"
+                },
+                {
+                  "id": "55",
+                  "name": "Satisfied",
+                  "type": "sprite"
+                },
+                {
+                  "id": "109",
+                  "name": "Neutral",
+                  "type": "sprite"
+                },
+                {
+                  "id": "105",
+                  "name": "Meal",
+                  "type": "sprite"
+                },
+                {
+                  "id": "106",
+                  "name": "Drink",
+                  "type": "sprite"
+                },
+                {
+                  "id": "61",
+                  "name": "Small",
+                  "type": "sprite"
+                },
+                {
+                  "id": "59",
+                  "name": "Big",
+                  "type": "sprite"
+                },
+                {
+                  "id": "58",
+                  "name": "Sweet",
+                  "type": "sprite"
+                },
+                {
+                  "id": "57",
+                  "name": "Salty",
+                  "type": "sprite"
+                },
+                {
+                  "id": "100",
+                  "name": "Human",
+                  "type": "sprite"
+                }
+              ]
+            },
+            {
+              "id": "31",
+              "name": "Basic",
+              "type": null,
+              "children": [
+                {
+                  "id": "11",
+                  "name": "Body",
+                  "type": "sprite"
+                },
+                {
+                  "id": "13",
+                  "name": "Head",
+                  "type": "sprite"
+                }
+              ]
+            },
+            {
+              "id": "32",
+              "name": "Basic Woman",
+              "type": null,
+              "children": [
+                {
+                  "id": "30",
+                  "name": "Body",
+                  "type": "sprite"
+                },
+                {
+                  "id": "29",
+                  "name": "Head",
+                  "type": "sprite"
+                }
+              ]
+            },
+            {
+              "id": "38",
+              "name": "Elf Woman",
+              "type": null,
+              "children": [
+                {
+                  "id": "40",
+                  "name": "Head",
+                  "type": "sprite"
+                },
+                {
+                  "id": "39",
+                  "name": "Body",
+                  "type": "sprite"
+                }
+              ]
+            },
+            {
+              "id": "82",
+              "name": "Chicken Man",
+              "type": null,
+              "children": [
+                {
+                  "id": "83",
+                  "name": "Body",
+                  "type": "sprite"
+                },
+                {
+                  "id": "84",
+                  "name": "Head",
+                  "type": "sprite"
+                }
+              ]
+            },
+            {
+              "id": "111",
+              "name": "Kid Girl",
+              "type": null,
+              "children": [
+                {
+                  "id": "112",
+                  "name": "Body",
+                  "type": "sprite"
+                },
+                {
+                  "id": "113",
+                  "name": "Head",
+                  "type": "sprite"
+                }
+              ]
+            },
+            {
+              "id": "116",
+              "name": "Lumberjack",
+              "type": null,
+              "children": [
+                {
+                  "id": "117",
+                  "name": "Body",
+                  "type": "sprite"
+                },
+                {
+                  "id": "118",
+                  "name": "Head",
+                  "type": "sprite"
+                }
+              ]
+            },
+            {
+              "id": "145",
+              "name": "Mermaid",
+              "type": null,
+              "children": [
+                {
+                  "id": "146",
+                  "name": "Body",
+                  "type": "sprite"
+                },
+                {
+                  "id": "148",
+                  "name": "Head",
+                  "type": "sprite"
+                }
+              ]
+            },
+            {
+              "id": "35",
+              "name": "Orc",
+              "type": null,
+              "children": [
+                {
+                  "id": "36",
+                  "name": "Body",
+                  "type": "sprite"
+                },
+                {
+                  "id": "37",
+                  "name": "Head",
+                  "type": "sprite"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "60",
+          "name": "Bar",
+          "type": null,
+          "children": [
+            {
+              "id": "62",
+              "name": "Behavior",
+              "type": "script"
+            },
+            {
+              "id": "56",
+              "name": "Bar Highlight",
+              "type": "sprite"
+            },
+            {
+              "id": "66",
+              "name": "Background",
+              "type": "sprite"
+            },
+            {
+              "id": "186",
+              "name": "Recipe Table Bottom",
+              "type": "sprite"
+            },
+            {
+              "id": "136",
+              "name": "Discard",
+              "type": "sprite"
+            },
+            {
+              "id": "158",
+              "name": "Popup",
+              "type": "sprite"
+            },
+            {
+              "id": "181",
+              "name": "Popup Trap",
+              "type": "sprite"
+            },
+            {
+              "id": "159",
+              "name": "Refill Indicator",
+              "type": "sprite"
+            }
+          ]
+        },
+        {
+          "id": "138",
+          "name": "Traps",
+          "type": null,
+          "children": [
+            {
+              "id": "160",
+              "name": "Behavior",
+              "type": "script"
+            },
+            {
+              "id": "139",
+              "name": "Trapdoor",
+              "type": "sprite"
+            },
+            {
+              "id": "140",
+              "name": "Trapdoor Activated",
+              "type": "sprite"
+            }
+          ]
+        },
+        {
+          "id": "142",
+          "name": "Musics",
+          "type": null,
+          "children": [
+            {
+              "id": "141",
+              "name": "Preparing",
+              "type": "sound"
+            },
+            {
+              "id": "151",
+              "name": "Serving",
+              "type": "sound"
+            },
+            {
+              "id": "164",
+              "name": "Good Day",
+              "type": "sound"
+            },
+            {
+              "id": "165",
+              "name": "Bad Day",
+              "type": "sound"
+            },
+            {
+              "id": "166",
+              "name": "New Day",
+              "type": "sound"
+            }
+          ]
+        },
+        {
+          "id": "157",
+          "name": "Sounds",
+          "type": null,
+          "children": [
+            {
+              "id": "167",
+              "name": "Meal",
+              "type": "sound"
+            },
+            {
+              "id": "170",
+              "name": "Drink",
+              "type": "sound"
+            },
+            {
+              "id": "171",
+              "name": "Build",
+              "type": "sound"
+            },
+            {
+              "id": "168",
+              "name": "Open Door",
+              "type": "sound"
+            },
+            {
+              "id": "169",
+              "name": "Close Door",
+              "type": "sound"
+            },
+            {
+              "id": "188",
+              "name": "Cash Register",
+              "type": "sound"
+            },
+            {
+              "id": "189",
+              "name": "Drop",
+              "type": "sound"
+            },
+            {
+              "id": "190",
+              "name": "Pick Up",
+              "type": "sound"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "180",
+      "name": "Game Over",
+      "type": "scene"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "behaviors": {
+    "CustomerBehavior": {
+      "scriptId": "5",
+      "line": 3,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "showBubble",
+          "type": "boolean"
+        },
+        {
+          "name": "position",
+          "type": "Sup.Math.Vector2"
+        }
+      ]
+    },
+    "SpawnerBehavior": {
+      "scriptId": "7",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "satisfactionScore",
+          "type": "number"
+        }
+      ]
+    },
+    "GameBehavior": {
+      "scriptId": "12",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "mousePosition",
+          "type": "Sup.Math.Vector2"
+        }
+      ]
+    },
+    "FurnituresBehavior": {
+      "scriptId": "16",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "BarBehavior": {
+      "scriptId": "62",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "isBarOpened",
+          "type": "boolean"
+        }
+      ]
+    },
+    "FoodBehavior": {
+      "scriptId": "154",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "TrapsBehavior": {
+      "scriptId": "160",
+      "line": 8,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "FloatAwayBehavior": {
+      "scriptId": "187",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    }
+  }
+}
